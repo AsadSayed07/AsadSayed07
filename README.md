@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/AsadSayed07/AsadSayed07/blob/main/To%20MY%20PROFILE.gif?raw=true" height = 250 width= 1010 >
+</p>
 <h2 align="left">Hey Folks 👋! </h2>
 <p align="left">My name is Asad. I'm a Marketing Professional and Data Analyst with 2+ years of experience having expertise in Microsoft Excel and an excellent grasp of tools like SQL, Python, Pandas, Seaborn, and BI tools like Power BI and Tableau.
 
