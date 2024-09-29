@@ -10,7 +10,7 @@
 
 <h2 align="left">About me</h2>
 
-<img align= "right" alt = "Keep Learning" height="180" width="300" src="https://arhamwebworks.com/wp-content/uploads/2022/12/61232-web-design-lottie-animation-1.gif">
+<img align= "right" alt = "Keep Learning" height="195" width="300" src="https://arhamwebworks.com/wp-content/uploads/2022/12/61232-web-design-lottie-animation-1.gif">
 
 - 🌱 I’m currently learning: **AWS, Google Data Studio**
 
