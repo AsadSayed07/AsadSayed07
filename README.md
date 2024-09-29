@@ -1,3 +1,4 @@
+
 <h2 align="left">Hey Folks 👋! </h2>
 <p align="left">My name is Asad. I'm a Marketing Professional and Data Analyst with 2+ years of experience having expertise in Microsoft Excel and an excellent grasp of tools like SQL, Python, Pandas, Seaborn, and BI tools like Power BI and Tableau.
 
@@ -7,7 +8,7 @@
 
 <h2 align="left">About me</h2>
 
-<img align= "right" alt = "Keep Learning" height="220" width="350" src="https://arhamwebworks.com/wp-content/uploads/2022/12/61232-web-design-lottie-animation-1.gif">
+<img align= "right" alt = "Keep Learning" height="220" width="330" src="https://arhamwebworks.com/wp-content/uploads/2022/12/61232-web-design-lottie-animation-1.gif">
 
 - 🌱 I’m currently learning: **AWS, Google Data Studio**
 
@@ -15,8 +16,7 @@
 
 - 📫 How to reach me: **sayedasad1987@gmail.com**
 
-- ⚡ Fun fact: **I am a Calisthenics Athlete 💪, a Yoga Practitioner 🧘‍♀️, <br />
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  a Guitarist 🎸 and a Lifetime Learner 📚**
+- ⚡ Fun fact: **I am a Calisthenics Athlete 💪, a Yoga Practitioner 🧘‍♀️, a Guitarist 🎸 and a Lifetime Learner 📚**
 
 ###
 
