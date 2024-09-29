@@ -24,7 +24,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/asad-sayed-3254052a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/asad-sayed-3254052a6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asad-sayed-3254052a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/asad-sayed-3254052a6" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/queensryche1984" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="queensryche1984" height="30" width="40" /></a>
 </p>
 
