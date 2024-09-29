@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AsadSayed07/AsadSayed07/blob/main/To%20MY%20PROFILE.gif?raw=true" height = 250 width= 1010 >
+  <img src="https://github.com/AsadSayed07/AsadSayed07/blob/main/To%20MY%20PROFILE.gif?raw=true" height = 200 width= 1010 >
 </p>
 <h2 align="left">Hey Folks 👋! </h2>
 <p align="left">My name is Asad. I'm a Marketing Professional and Data Analyst with 2+ years of experience having expertise in Microsoft Excel and an excellent grasp of tools like SQL, Python, Pandas, Seaborn, and BI tools like Power BI and Tableau.
@@ -10,7 +10,7 @@
 
 <h2 align="left">About me</h2>
 
-<img align= "right" alt = "Keep Learning" height="220" width="330" src="https://arhamwebworks.com/wp-content/uploads/2022/12/61232-web-design-lottie-animation-1.gif">
+<img align= "right" alt = "Keep Learning" height="180" width="300" src="https://arhamwebworks.com/wp-content/uploads/2022/12/61232-web-design-lottie-animation-1.gif">
 
 - 🌱 I’m currently learning: **AWS, Google Data Studio**
 
