@@ -12,7 +12,7 @@
 
 <img align= "right" alt = "Keep Learning" height="195" width="300" src="https://arhamwebworks.com/wp-content/uploads/2022/12/61232-web-design-lottie-animation-1.gif">
 
-- 🌱 I’m currently learning: **AWS, Google Data Studio**
+- 🌱 I’m currently learning: **AWS, Google Analytics 4**
 
 - 💬 Ask me about: **Microsoft Excel, Email Marketing, SQL, Power BI**
 
@@ -25,7 +25,6 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/asad-sayed-3254052a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/asad-sayed-3254052a6" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/queensryche1984" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="queensryche1984" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
